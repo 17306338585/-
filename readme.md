@@ -6,3 +6,5 @@
 暂无
 正在改造的网页：
 中国科学院863计划页  https://www.cas.cn/ky/kyxm/863xm/
+
+About this project:The web transformation project is aimed at upgrading web pages written in HTML 4.01 to be based on HTML5.It has been 26 years since HTML 4.01 was released, and some web pages have not been upgraded to HTML5, which leads to them not displaying in modern browsers or displaying garbled text.This is why this project exists.Currently transformed web pages:NoneWeb pages currently being transformed:Chinese Academy of Sciences 863 Program page https://www.cas.cn/ky/kyxm/863xm/
